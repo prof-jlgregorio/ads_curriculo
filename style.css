@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+div.container{
+    width: 800px;
+    border: solid gray thin;
+    border-radius: 15px;
+    box-shadow: 3px 3px 3px gray;
+    background-color: beige;
+    margin: 2rem auto;
+    box-sizing: border-box;
+    padding: 2rem;
+}
